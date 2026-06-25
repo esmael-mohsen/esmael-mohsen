@@ -24,11 +24,14 @@ I'm a Flutter Developer based in Egypt, focused on building production-style app
 
 I enjoy turning ideas into complete apps using Flutter, Dart, Firebase, Supabase, BLoC/Cubit, Clean Architecture, and modern development workflows.
 
+My work focuses on building practical Flutter apps across mobile, desktop, e-commerce, admin dashboards, and offline-first experiences.
+
 ---
 
 ## 🛠 Tech Stack
 
 ### Mobile & Desktop Development
+
 - Flutter
 - Dart
 - Responsive UI
@@ -36,6 +39,7 @@ I enjoy turning ideas into complete apps using Flutter, Dart, Firebase, Supabase
 - Flutter Desktop
 
 ### Architecture & State Management
+
 - Clean Architecture
 - Feature-first Architecture
 - BLoC / Cubit
@@ -45,6 +49,7 @@ I enjoy turning ideas into complete apps using Flutter, Dart, Firebase, Supabase
 - Injectable
 
 ### Backend & Databases
+
 - Firebase Auth
 - Cloud Firestore
 - Firebase Storage
@@ -55,12 +60,34 @@ I enjoy turning ideas into complete apps using Flutter, Dart, Firebase, Supabase
 - Hive
 
 ### Tools & Workflow
+
 - Git & GitHub
 - GitHub Actions
 - Postman
 - Figma
 - VS Code
 - Android Studio
+
+---
+
+## 📌 Featured Project
+
+### 🎭 [MafMof — Offline Arabic Social Deduction Game](https://github.com/esmael-mohsen/mafmof-offline-mystery-game)
+
+A host-led Arabic mystery party game built offline-first with Flutter, Drift, BLoC, and go_router.
+
+**Highlights:**
+
+- Offline-first gameplay with local SQLite storage
+- Arabic-first / RTL user experience
+- Host-led role reveal, voting, clues, and final reveal flow
+- Drift database seeded from bundled JSON case files
+- Feature-first clean architecture
+- BLoC/Cubit state management
+- GitHub Actions CI workflow
+- Android APK release available through GitHub Releases
+
+**Tech Stack:** Flutter, Dart, BLoC/Cubit, Drift, SQLite, go_router, get_it, injectable, GitHub Actions
 
 ---
 
@@ -76,7 +103,7 @@ I enjoy turning ideas into complete apps using Flutter, Dart, Firebase, Supabase
 
 ---
 
-## 📌 Portfolio Focus
+## 🎯 Current Focus
 
 I'm currently polishing selected Flutter projects into professional case studies with:
 
@@ -87,17 +114,12 @@ I'm currently polishing selected Flutter projects into professional case studies
 - GitHub Actions
 - Production-style README files
 
-Featured projects will include Flutter apps across e-commerce, desktop management systems, offline-first apps, and admin dashboards.
+Next portfolio projects will focus on:
 
----
-
-## 🎯 Current Focus
-
-- Improving Flutter project structure and scalability
-- Building better case studies for real-world apps
-- Strengthening backend integration with Firebase and Supabase
-- Creating polished UI/UX experiences
-- Writing cleaner documentation and tests
+- Flutter desktop management systems
+- E-commerce and admin-dashboard apps
+- Firebase/Supabase integrations
+- Clean Architecture and scalable project structure
 
 ---
 
