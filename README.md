@@ -2,137 +2,103 @@
 
 # Hi, I'm Esmael Mohsen 👋
 
-### Flutter Developer | Mobile & Desktop App Developer
+### Flutter Developer | Mobile & Desktop Software Engineer
 
-I build clean, scalable, and user-focused Flutter applications for mobile, desktop, and admin-dashboard use cases.
+I build production-oriented cross-platform software with Flutter and Dart,
+with a strong focus on clean architecture, reliable state management,
+offline-first data, backend integrations, testing, and maintainable code.
 
-<br/>
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esmael-mohsen)
+[Portfolio](https://esmael-mohsen.github.io/Ismael-Mohsen/) •
+[LinkedIn](https://www.linkedin.com/in/ismael-mohsen/) •
+[Email](mailto:ismaelmohsen1024@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Flutter Developer based in Egypt, focused on building production-style applications with clean architecture, real backend integrations, local databases, and polished user experiences.
+I'm a Computer Science graduate with an AI specialization, based in Egypt and open to remote opportunities.
 
-I enjoy turning ideas into complete apps using Flutter, Dart, Firebase, Supabase, BLoC/Cubit, Clean Architecture, and modern development workflows.
+My primary focus is **Flutter engineering across mobile and Windows desktop applications**. I work on real business-oriented systems using Clean Architecture, BLoC/Cubit, local databases, REST APIs, Firebase, Supabase, automated testing, and CI workflows.
 
-My work focuses on building practical Flutter apps across mobile, desktop, e-commerce, admin dashboards, and offline-first experiences.
-
----
-
-## 🛠 Tech Stack
-
-### Mobile & Desktop Development
-
-- Flutter
-- Dart
-- Responsive UI
-- Material Design
-- Flutter Desktop
-
-### Architecture & State Management
-
-- Clean Architecture
-- Feature-first Architecture
-- BLoC / Cubit
-- Provider
-- Riverpod
-- GetIt
-- Injectable
-
-### Backend & Databases
-
-- Firebase Auth
-- Cloud Firestore
-- Firebase Storage
-- Supabase
-- REST APIs
-- SQLite
-- Drift
-- Hive
-
-### Tools & Workflow
-
-- Git & GitHub
-- GitHub Actions
-- Postman
-- Figma
-- VS Code
-- Android Studio
+I also have hands-on experience with web and AI systems, which helps me approach projects from a broader software-engineering perspective rather than being limited to a single framework.
 
 ---
 
-## 📌 Featured Project
+## Core Engineering Stack
+
+| Area | Technologies |
+|---|---|
+| Cross-platform | Flutter, Dart, Flutter Mobile, Flutter Desktop |
+| Architecture | Clean Architecture, Feature-first Architecture, BLoC / Cubit |
+| Navigation & DI | go_router, GetIt, Injectable |
+| Backend | REST APIs, Supabase, Firebase |
+| Data | Drift, SQLite, Hive, PostgreSQL |
+| Quality | Unit Testing, Widget Testing, Integration Testing, CI/CD |
+| Web | React, Next.js, TypeScript |
+| AI / Systems | Python, Computer Vision, OCR, Embedded Systems |
+
+---
+
+## Featured Engineering Work
 
 ### 🎭 [MafMof — Offline Arabic Social Deduction Game](https://github.com/esmael-mohsen/mafmof-offline-mystery-game)
 
-A host-led Arabic mystery party game built offline-first with Flutter, Drift, BLoC, and go_router.
+An offline-first Flutter application built around local persistence, protected game flows, Arabic-first RTL UX, and structured state management.
 
-**Highlights:**
-
-- Offline-first gameplay with local SQLite storage
-- Arabic-first / RTL user experience
-- Host-led role reveal, voting, clues, and final reveal flow
-- Drift database seeded from bundled JSON case files
-- Feature-first clean architecture
-- BLoC/Cubit state management
-- GitHub Actions CI workflow
-- Android APK release available through GitHub Releases
-
-**Tech Stack:** Flutter, Dart, BLoC/Cubit, Drift, SQLite, go_router, get_it, injectable, GitHub Actions
+**Highlights:** Feature-first architecture • BLoC/Cubit • Drift/SQLite • go_router • Dependency Injection • Automated Testing • GitHub Actions
 
 ---
 
-## 💼 What I Build
+### 💼 Commercial Software — Case Studies
 
-- Mobile applications with clean architecture
-- E-commerce apps with customer and admin flows
-- Desktop management systems
-- Admin dashboards
-- Offline-first apps with local databases
-- Firebase and Supabase integrated applications
-- Arabic/English and RTL-friendly interfaces
+Some of my largest projects are commercial systems, so their production source code remains private.
 
----
+Detailed engineering case studies are being prepared for:
 
-## 🎯 Current Focus
+**Gym Manager** — Flutter Windows management system  
+**Cafe System** — Flutter Windows business/POS system  
+**Cinematy** — Flutter cinema booking platform  
+**Egypt Plywood** — Full business web platform
 
-I'm currently polishing selected Flutter projects into professional case studies with:
-
-- Clean documentation
-- Screenshots and demo previews
-- Clear architecture explanation
-- Setup instructions
-- GitHub Actions
-- Production-style README files
-
-Next portfolio projects will focus on:
-
-- Flutter desktop management systems
-- E-commerce and admin-dashboard apps
-- Firebase/Supabase integrations
-- Clean Architecture and scalable project structure
+The case studies will focus on architecture, implemented workflows, engineering decisions, testing, screenshots, technical challenges, and outcomes without exposing proprietary source code or business-sensitive information.
 
 ---
 
-## 📫 Contact
+## Other Public Work
 
-- GitHub: [@esmael-mohsen](https://github.com/esmael-mohsen)
-- LinkedIn: [@ismael-mohsen](https://www.linkedin.com/in/ismael-mohsen/)
-- Email: ismaelmohsen1024@gmail.com
+- 🤖 [CVision](https://github.com/esmael-mohsen/Cvision) — AI-assisted hiring platform
+- 🧠 [CVision AI](https://github.com/esmael-mohsen/Cvision-AI-) — CV-to-job matching and analysis system
+- 💵 [Egyptian Money Detection](https://github.com/esmael-mohsen/Egyptian-Money-Detection-) — Assistive computer-vision system
+- 🎬 [Flutter Movie App](https://github.com/esmael-mohsen/flutter_movie_app) — Flutter + BLoC + Firebase + REST APIs
+- 🌐 [Portfolio](https://github.com/esmael-mohsen/Ismael-Mohsen) — Personal engineering portfolio
 
 ---
 
-<div align="center">
+## How I Approach Software
 
-### Thanks for visiting my profile 👋
+I care about more than making a screen work.
 
-</div>
+I focus on clear architecture, predictable state, resilient data flows, testable business logic, performance, maintainability, and understanding why an engineering decision is made — not just which package implements it.
+
+My workflow increasingly combines strong software-engineering fundamentals with AI-assisted development for research, planning, implementation support, testing, review, and documentation.
+
+---
+
+## Current Focus
+
+Building and refining production-oriented Flutter systems while publishing engineering case studies for selected commercial projects.
+
+I'm currently open to opportunities as a:
+
+**Flutter Developer • Mobile Software Engineer • Cross-Platform Software Engineer**
+
+---
+
+## Contact
+
+**Portfolio:** https://esmael-mohsen.github.io/Ismael-Mohsen/  
+**LinkedIn:** https://www.linkedin.com/in/ismael-mohsen/  
+**GitHub:** https://github.com/esmael-mohsen  
+**Email:** ismaelmohsen1024@gmail.com
