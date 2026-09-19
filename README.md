@@ -1,11 +1,11 @@
 <div align="center">
 
-👋 Hi, I'm Esmael Mohsen
+# 👋 Hi, I'm Esmael Mohsen
 
-Flutter Developer · Mobile & Desktop Software Engineer
+### Flutter Developer · Mobile & Desktop Software Engineer
 
-Building production-oriented cross-platform software with
-Flutter, Dart, Clean Architecture, reliable data flows, and automated testing.
+Building production-oriented cross-platform software with  
+**Flutter, Dart, Clean Architecture, reliable data flows, and automated testing.**
 
 <br/>
 
@@ -27,33 +27,32 @@ Flutter, Dart, Clean Architecture, reliable data flows, and automated testing.
 
 </div>
 
-👨‍💻 About Me
+---
 
-I'm a Computer Science graduate with an AI specialization, focused primarily on building practical software products with Flutter.
+## 👨‍💻 About Me
+
+I'm a **Computer Science graduate with an AI specialization**, focused primarily on building practical software products with Flutter.
 
 My work goes beyond UI implementation. I enjoy designing complete systems — from architecture and state management to persistence, backend integration, testing, performance, and production hardening.
 
 I work mainly across:
 
-📱 Mobile applications
+- 📱 **Mobile applications**
+- 🖥️ **Windows desktop systems**
+- 📴 **Offline-first software**
+- 🧩 **Business and management systems**
+- 🌐 **Backend-integrated applications**
+- 🧪 **Tested and maintainable codebases**
 
-🖥️ Windows desktop systems
+I also have hands-on experience with **React / Next.js, AI, computer vision, and embedded systems**, which gives me a broader software-engineering perspective beyond one framework.
 
-📴 Offline-first software
+---
 
-🧩 Business and management systems
-
-🌐 Backend-integrated applications
-
-🧪 Tested and maintainable codebases
-
-I also have hands-on experience with React / Next.js, AI, computer vision, and embedded systems, which gives me a broader software-engineering perspective beyond one framework.
-
-🧰 Engineering Stack
+## 🧰 Engineering Stack
 
 <div align="center">
 
-Core
+### Core
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -61,7 +60,7 @@ Core
 <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/go__router-02569B?style=flat-square" />
 
-Backend & Data
+### Backend & Data
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -69,7 +68,7 @@ Backend & Data
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
 
-Engineering
+### Engineering
 
 <img src="https://img.shields.io/badge/Automated_Testing-6DB33F?style=flat-square" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -78,137 +77,88 @@ Engineering
 
 </div>
 
-🚀 Featured Engineering Work
+---
 
-🎭 MafMof
+# 🚀 Featured Engineering Work
 
-Offline-first Arabic Social Deduction Game
+## 🎭 MafMof
+### Offline-first Arabic Social Deduction Game
 
-
+[![Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/esmael-mohsen/mafmof-offline-mystery-game)
 
 A host-led Arabic mystery game built to run completely offline while protecting private player roles and maintaining reliable game state across an entire session.
 
-Engineering highlights
+**Engineering highlights**
 
-Feature-first Clean Architecture
+- Feature-first Clean Architecture
+- BLoC / Cubit state management
+- Drift + SQLite local persistence
+- Declarative navigation with `go_router`
+- Arabic-first RTL interface
+- Dependency injection with GetIt / Injectable
+- Automated unit and widget testing
+- GitHub Actions CI
+- Fully offline gameplay
 
-BLoC / Cubit state management
+> **Focus:** Architecture · Offline-first design · State reliability · Testing
 
-Drift + SQLite local persistence
+---
 
-Declarative navigation with go_router
-
-Arabic-first RTL interface
-
-Dependency injection with GetIt / Injectable
-
-Automated unit and widget testing
-
-GitHub Actions CI
-
-Fully offline gameplay
-
-Focus: Architecture · Offline-first design · State reliability · Testing
-
-💼 Commercial Software Case Studies
+# 💼 Commercial Software Case Studies
 
 Some of my largest systems are commercial projects.
 
 Their production source code remains private, but I document the engineering work through public case studies covering architecture, implemented workflows, testing, technical decisions, and selected screenshots.
 
-Project
+| Project | Platform | Engineering Focus | Status |
+|---|---|---|---|
+| ☕ **Cafe System** | Flutter Windows | POS, local-first architecture, Drift/SQLite, business workflows, recovery | 🚧 Case Study Coming |
+| 🏋️ **Gym Manager** | Flutter Windows | Memberships, barcode workflows, billing, reports, offline operations | 🚧 Case Study Coming |
+| 🎬 **Cinematy** | Flutter Mobile | Booking architecture, Supabase, role-based access, BLoC, localization | 🚧 Case Study Coming |
+| 🪵 **Egypt Plywood** | Web Platform | Business workflows, admin systems, catalog, reporting, production hardening | 🚧 Case Study Coming |
 
-Platform
+> 🔒 Production source code for commercial projects is kept private to protect proprietary business logic and client assets.
 
-Engineering Focus
+---
 
-Status
-
-☕ Cafe System
-
-Flutter Windows
-
-POS, local-first architecture, Drift/SQLite, business workflows, recovery
-
-🚧 Case Study Coming
-
-🏋️ Gym Manager
-
-Flutter Windows
-
-Memberships, barcode workflows, billing, reports, offline operations
-
-🚧 Case Study Coming
-
-🎬 Cinematy
-
-Flutter Mobile
-
-Booking architecture, Supabase, role-based access, BLoC, localization
-
-🚧 Case Study Coming
-
-🪵 Egypt Plywood
-
-Web Platform
-
-Business workflows, admin systems, catalog, reporting, production hardening
-
-🚧 Case Study Coming
-
-🔒 Production source code for commercial projects is kept private to protect proprietary business logic and client assets.
-
-🤖 AI & Software Engineering Projects
+## 🤖 AI & Software Engineering Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-CVision
+### CVision
 
 AI-assisted hiring platform with candidate and admin workflows.
 
-Includes:
+**Includes:**
+- Role-based authentication
+- Job management
+- Candidate applications
+- CV processing
+- Supabase
+- Edge Functions
+- AI integration
 
-Role-based authentication
-
-Job management
-
-Candidate applications
-
-CV processing
-
-Supabase
-
-Edge Functions
-
-AI integration
-
-View Repository →
+[View Repository →](https://github.com/esmael-mohsen/Cvision)
 
 </td>
 
 <td width="50%" valign="top">
 
-CVision AI
+### CVision AI
 
 CV-to-job matching and analysis system.
 
-Includes:
+**Includes:**
+- FastAPI
+- Resume analysis
+- Skill matching
+- Semantic similarity
+- Explainability
+- ML experiments
 
-FastAPI
-
-Resume analysis
-
-Skill matching
-
-Semantic similarity
-
-Explainability
-
-ML experiments
-
-View Repository →
+[View Repository →](https://github.com/esmael-mohsen/Cvision-AI-)
 
 </td>
 </tr>
@@ -216,54 +166,46 @@ View Repository →
 <tr>
 <td width="50%" valign="top">
 
-Egyptian Money Detection
+### Egyptian Money Detection
 
 Assistive computer-vision system for visually impaired users.
 
-Includes:
+**Includes:**
+- YOLO detection
+- Egyptian banknotes
+- Voice commands
+- SQLite wallet
+- Raspberry Pi support
 
-YOLO detection
-
-Egyptian banknotes
-
-Voice commands
-
-SQLite wallet
-
-Raspberry Pi support
-
-View Repository →
+[View Repository →](https://github.com/esmael-mohsen/Egyptian-Money-Detection-)
 
 </td>
 
 <td width="50%" valign="top">
 
-Flutter Movie App
+### Flutter Movie App
 
 Flutter application demonstrating API-driven mobile architecture.
 
-Includes:
+**Includes:**
+- BLoC
+- Firebase
+- TMDB REST API
+- Search & filters
+- Authentication
+- Local persistence
 
-BLoC
-
-Firebase
-
-TMDB REST API
-
-Search & filters
-
-Authentication
-
-Local persistence
-
-View Repository →
+[View Repository →](https://github.com/esmael-mohsen/flutter_movie_app)
 
 </td>
 </tr>
 </table>
 
-🧠 How I Build Software
+---
 
+# 🧠 How I Build Software
+
+```text
 Understand the problem
         ↓
 Define requirements & system boundaries
@@ -277,47 +219,48 @@ Test business logic and critical workflows
 Review performance, reliability & edge cases
         ↓
 Document decisions and prepare for release
+```
 
-I care about understanding why an engineering decision is made, not only which package or framework implements it.
+I care about understanding **why** an engineering decision is made, not only which package or framework implements it.
 
 My development workflow also uses AI tools for research, planning, implementation assistance, code review, testing, and documentation — while keeping architecture and technical decisions grounded in software-engineering fundamentals.
 
-🎯 Current Focus
+---
+
+## 🎯 Current Focus
 
 Currently focused on:
 
-Building production-oriented Flutter applications
+- Building production-oriented Flutter applications
+- Flutter Windows and desktop business systems
+- Offline-first architectures
+- Reliable persistence and recovery
+- Automated testing
+- Publishing engineering case studies for commercial projects
+- Expanding my React / Next.js experience
 
-Flutter Windows and desktop business systems
+---
 
-Offline-first architectures
+## 💡 Areas I Enjoy Working On
 
-Reliable persistence and recovery
+`Flutter` · `Mobile Engineering` · `Desktop Software` ·  
+`Clean Architecture` · `BLoC` · `Offline-First Systems` ·  
+`Business Software` · `Backend Integration` · `Testing` · `AI-Assisted Development`
 
-Automated testing
-
-Publishing engineering case studies for commercial projects
-
-Expanding my React / Next.js experience
-
-💡 Areas I Enjoy Working On
-
-Flutter · Mobile Engineering · Desktop Software ·
-Clean Architecture · BLoC · Offline-First Systems ·
-Business Software · Backend Integration · Testing · AI-Assisted Development
+---
 
 <div align="center">
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm currently open to opportunities as a:
 
-Flutter Developer · Mobile Software Engineer · Cross-Platform Software Engineer
+### Flutter Developer · Mobile Software Engineer · Cross-Platform Software Engineer
 
 <br/>
 
-
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://esmael-mohsen.github.io/Ismael-Mohsen/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ismael-mohsen/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelmohsen1024@gmail.com)
 
 </div>
