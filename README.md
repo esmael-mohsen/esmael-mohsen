@@ -114,7 +114,7 @@ Their production source code remains private, but I document the engineering wor
 |---|---|---|---|
 | 🎬 **[Cinematy](https://github.com/esmael-mohsen/cinematy-case-study)** | Flutter Mobile + Web | Transactional booking, Supabase/PostgreSQL, RBAC, realtime reconciliation | ✅ Published |
 | 🏋️ **[Gym Manager](https://github.com/esmael-mohsen/gym-manager-case-study)** | Flutter Windows | Local-first operations, memberships, financial workflows, attendance, reporting, recovery | ✅ Published |
-| ☕ **Cafe System** | Flutter Windows | POS, local-first architecture, Drift/SQLite, business workflows, recovery | 🚧 Case Study Coming |
+| ☕ **[Cafe System](https://github.com/esmael-mohsen/cafe-sys-case-study)** | Flutter Windows | POS + KDS, local Dart/Shelf service, Drift/SQLite, tables, inventory, recovery | ✅ Published |
 | 🪵 **Egypt Plywood** | Web Platform | Business workflows, admin systems, catalog, reporting, production hardening | 🚧 Case Study Coming |
 
 > 🔒 Production source code for commercial projects is kept private to protect proprietary business logic and client assets.
